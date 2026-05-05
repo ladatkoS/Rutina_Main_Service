@@ -260,10 +260,10 @@ auth:
 
 | Сервис | Порт | Репозиторий |
 |--------|------|-------------|
-| Gateway Service | 8080 | [Rutina Gateway](https://github.com/ladatkoS/Rutina_Gateway) |
-| Auth Service | 8082 | [Rutina Auth](https://github.com/ladatkoS/Rutina_Auth) |
+| Gateway Service | 8080 | [Rutina Gateway](https://github.com/ladatkoS/Rutina_Gateway.git) |
+| Auth Service | 8082 | [Rutina Auth](https://github.com/ladatkoS/Rutina_Auth.git) |
 | **Main Service** | **8083** | **этот репозиторий** |
-| Android App | — | [Rutina Android](https://github.com/ladatkoS/Rutina_Android) |
+| Android App | — | [Rutina Android](https://github.com/ladatkoS/Rutina_Android.git) |
 | Neural Network | 8000 | [Rutina NN](https://github.com/AntonSlon/Rutina-neural-network.git) |
 
 ---
